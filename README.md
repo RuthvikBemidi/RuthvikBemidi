@@ -1,5 +1,3 @@
-### Hi there 👋!
-
 <h1 align="center">Hi 👋, I'm Ruthvik Bemidi</h1>
 <h3 align="center">Computer science and Neuroscience.</h3>
 
