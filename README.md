@@ -27,4 +27,4 @@ Want to discuss about a project or just drop a "hi", you can contact me via foll
 1. [Twitter](https://twitter.com/BemidiRuthvik/)( mostly active on Twitter. )
 2. [LinkedIn](https://www.linkedin.com/in/ruthvikbemidi/)  
 3. [Portfolio](https://ruthvikbemidi.github.io/me/)
-4. [Email](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBzDMZGrCHLGplBzVFpdSFvSMhJKzfRpSHCdSCbJWkpFKLZKPNqsFcCLHQhDcrqQPdJXvh)
+4. [Email](mailto:ruthvik4215@gmail.com)
