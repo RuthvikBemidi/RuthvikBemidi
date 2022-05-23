@@ -24,7 +24,7 @@ Check out my blogs [here](https://ruthvikbemidi.hashnode.dev/).
 
 Want to discuss about a project or just drop a "hi", you can contact me via following-   
 
-- [Twitter](https://twitter.com/BemidiRuthvik/)( mostly active on Twitter. )
-- [LinkedIn](https://www.linkedin.com/in/ruthvikbemidi/)  
-- [Portfolio](https://ruthvikbemidi.github.io/me/)
-- [Email](ruthvik4215@gmail.com)
+1. [Twitter](https://twitter.com/BemidiRuthvik/)( mostly active on Twitter. )
+2. [LinkedIn](https://www.linkedin.com/in/ruthvikbemidi/)  
+3. [Portfolio](https://ruthvikbemidi.github.io/me/)
+4. [Email](ruthvik4215@gmail.com)
