@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ruthvik Bemidi. 
 
 ## 🙋‍♀️ About Me
-- 👩‍💻 I'm a Software Engineer.
+- 👩‍💻 I'm a Student & Software Developer.
 - 😍 I love Neuroscience.
 - 💙 I develop mobile apps with Flutter. 
 - 👩‍🎓 I am an under-graduate with a B.Tech in Computer Science and Engineering.
