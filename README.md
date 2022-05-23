@@ -14,7 +14,7 @@
 - Firebase
 - HTML | CSS | JavaScript | TypeScript | ReactJS
 
-## ✍️ Blogs
+## ✍️ Blogs & Articles
 
 I write blogs about my experiences as a Software developer and the tech I use daily.
 
@@ -24,8 +24,7 @@ Check out my blogs [here](https://ruthvikbemidi.hashnode.dev/).
 
 Want to discuss about a project or just drop a "hi", you can contact me via following-   
 
-[Twitter](https://twitter.com/BemidiRuthvik)( mostly active on Twitter. )
-
+[Twitter](https://twitter.com/BemidiRuthvik/)( mostly active on Twitter. )
 [LinkedIn](https://www.linkedin.com/in/ruthvikbemidi/)  
-[Portfolio](https://ruthvikbemidi.github.io/me)
+[Portfolio](https://ruthvikbemidi.github.io/me/)
 [Email](ruthvik4215@gmail.com)
