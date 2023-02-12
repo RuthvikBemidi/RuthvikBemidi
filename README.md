@@ -18,7 +18,7 @@
 
 I write blogs about my experiences as a Software developer and the tech I use daily.
 
-Check out my blogs [here](https://ruthvikbemidi.hashnode.dev/).
+Check out my blogs [here](https://ruthvikbheemidi.hashnode.dev/).
 
 ### 📫 How to reach me:
 
