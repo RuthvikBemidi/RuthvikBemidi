@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ruthvik Bemidi. 
+## Hi there 👋 I'm Ruthvik Bheemidi. 
 
 ### 🙋‍♀️ About Me
 - 👩‍💻 I'm a Student & Software Developer.
