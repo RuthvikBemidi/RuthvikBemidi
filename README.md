@@ -6,7 +6,7 @@
 - 💙 I develop mobile apps with Flutter. 
 - 👩‍🎓 I am an under-graduate with a B.Tech in Computer Science and Engineering.
 - 📝 I write blogs and I contribute to Open Source Projects in my spare time and learn new technologies.
-- 📚 I like to read blogs, articles about Space Travel & Space Technologies.
+- 📚 I like to read blogs, articles about Space Travel & Space Technologies and Science.
 
 ### 🛠 My Tech Stack
 - Flutter | Dart
