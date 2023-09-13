@@ -12,7 +12,8 @@
 - Flutter | Dart
 - Android | iOS
 - Firebase
-- HTML | CSS | JavaScript | TypeScript | ReactJS
+- Node.js | Express.js | Axios
+- HTML | CSS | JavaScript | TypeScript | ReactJS | Next.js | Tailwind CSS
 
 ### ✍️ Blogs & Articles
 
@@ -24,7 +25,7 @@ Check out my blogs [here](https://ruthvikbheemidi.hashnode.dev/).
 
 Want to discuss about a project or just drop a "hi", you can contact me via following-   
 
-1. [Twitter](https://twitter.com/ruthvikbheemidi/)( mostly active on Twitter. )
+1. [X/Twitter](https://twitter.com/ruthvikbheemidi/)( mostly active on X/Twitter. )
 2. [LinkedIn](https://www.linkedin.com/in/ruthvikbheemidi/)  
 3. [Portfolio](https://ruthvikbheemidi.github.io/me/)
 4. [Email](mailto:ruthvikbheemidi@gmail.com)
